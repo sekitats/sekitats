@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm sekitats</h1>
 <h3 align="center">A Web Application Engineer from Japan. I build fullstack apps using modern TypeScript ecosystem with a strong focus on developer experience, architecture, and AI-driven productivity.</h3>
 
+<h3 align="center">日本のWebアプリケーションエンジニアです。
+TypeScriptを中心としたモダンな技術を活かして、
+開発者体験やアーキテクチャ設計、AIを活用した生産性の高いフルスタック開発に力を入れています。</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sekitats&label=Profile%20views&color=0e75b6&style=flat" alt="sekitats" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sekitats" alt="sekitats" /></a> </p>
